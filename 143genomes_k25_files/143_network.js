@@ -1,8 +1,8 @@
 
 //Constants for the SVG
 var margin = {top: -5, right: -5, bottom: -5, left: -5},
-    width = 1600 - margin.left - margin.right,
-    height = 1200 - margin.top - margin.bottom;
+    width = 1200 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
     
 //Set up the colour scale
 var color = d3.scale.category20();
