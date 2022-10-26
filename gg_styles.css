@@ -188,7 +188,7 @@ pre {
 }
 #small {
    color: #555555;
-   font: 0.75em 'Roboto', Arial;
+   font: 0.75em sans-serif;
 }
 
 #code {
@@ -212,7 +212,7 @@ pre {
 
 #beauty {
    color: #009; 
-   font: 1.5em Arial, sans-serif;
+   font: 1.5em sans-serif;
    line-height: 1.6;
 }
 
